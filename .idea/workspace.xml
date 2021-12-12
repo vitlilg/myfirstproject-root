@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a33177f-810d-4e44-a121-1154dfeca6a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myfirstproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myfirstproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myfirstproject/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myfirstproject/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
